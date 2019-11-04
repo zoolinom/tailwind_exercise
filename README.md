@@ -35,7 +35,7 @@ Steps for installing tailwind in empty project:
 
 10. Link Tailwind like any other css with <link> tag
 
-11. Add <h1> tag with some text, and add tailwind classes
+11. Add h1 tag with some text, and add tailwind classes
 
 12. Install live-server with command:
     npm install -g live-server
